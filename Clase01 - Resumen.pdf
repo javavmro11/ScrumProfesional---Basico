@@ -1,0 +1,16 @@
+-Que es una metodologia Agile:
+La habilidad de crear productos y responder al cambio, es un conjunto de marcos de trabajo y metodologias, tambien sirve para atender a las necesidades actuales del 
+negocio o del mercado generando mucho valor a los usuarios finales.
+
+-Metodologias: entre estas tenemos Kanban, ExtremePrograming, Scrum, Pair to Pair Programing o TDD(Test Driven Develpment) que se usa con todas las anteriores
+
+Esta centrada a las personas, en como trabaja y colaboran en el equipo de desarrollo.
+
+Mentalidad del manifiesto: "Estamos descrubiendo formas mejores de desarrollar un software tanto por nuestra propia experiencia como ayudando a terceros", esto quiere
+decir que a travez de la experiencia se genera mas calidad en el producto que se desarrolla.
+
+Diferencias entre desarrollo tradicional y Agile.
+
+- Grupo de trabajos mas pequeños para mejor control de quien hace que dentro de una iteracion(tiempo de entrega de funcionalidad)
+- Mejor manejo de requerimientos: se hacen listas mas pequeñas de requerimientos
+- Generacion de valor en el producto entregado.
